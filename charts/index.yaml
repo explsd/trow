@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  trow:
+  - apiVersion: v2
+    appVersion: 0.7.1
+    created: "2025-03-02T16:46:52.1607825-06:00"
+    description: Helm chart for Trow registry
+    digest: 85091102a502679d30a598a3d9e2c021a87b381e1a1378665f8bd4fa8909f270
+    home: https://trow.io
+    kubeVersion: '>= 1.26.0-0'
+    maintainers:
+    - name: awoimbee
+      url: https://github.com/awoimbee
+    name: trow
+    type: application
+    urls:
+    - https://github.com/explsd/trow/releases/download/untagged-74e48e392276c3bb164b/trow-0.10.1.tgz
+    version: 0.10.1
+generated: "2025-03-02T16:46:52.1591575-06:00"
